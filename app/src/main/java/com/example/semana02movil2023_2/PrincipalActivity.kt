@@ -8,7 +8,6 @@ class PrincipalActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_principal)
         //Este es mi codigo
-        //Carlos Celi alumno de ESAN
 
 
     }
